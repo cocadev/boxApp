@@ -10,8 +10,15 @@
     "lint": "eslint ."
   },
   "dependencies": {
+    "@react-native-community/async-storage": "^1.6.3",
     "react": "16.9.0",
-    "react-native": "0.61.5"
+    "react-native": "0.61.5",
+    "react-native-cached-image": "^1.4.3",
+    "react-native-camera-roll-picker": "^2.0.0",
+    "react-native-gesture-handler": "^1.5.2",
+    "react-native-picker-select": "^6.3.3",
+    "react-navigation": "^4.0.10",
+    "react-navigation-stack": "^1.10.3"
   },
   "devDependencies": {
     "@babel/core": "^7.7.4",
