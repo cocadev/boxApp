@@ -1,3 +1,3 @@
 # react native box app
  
-expo cli version 40
+react-native cli version 64
